@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Reagan-code/golf-project#readme",
   "dependencies": {
+    "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "joi": "^17.13.3",
     "joi-password-complexity": "^5.2.0",
